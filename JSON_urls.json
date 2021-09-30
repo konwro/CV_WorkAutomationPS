@@ -1,0 +1,20 @@
+[
+    {
+        "app":"google",
+        "ver":"web",
+        "url":"https://www.google.com",
+        "app_id":"1"
+    },
+    {
+        "app":"google",
+        "ver":"img",
+        "url":"https://www.google.com/imghp?hl=en",
+        "app_id":"2"
+    },
+    {
+        "app":"wiki",
+        "ver":"x",
+        "url":"https://www.wikiepedia.org",
+        "app_id":"3"
+    }
+]
