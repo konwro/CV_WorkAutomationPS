@@ -37,9 +37,9 @@ Write-Host ""
 Start-Process $url
 
 # open url - option 2 - selected browser (outcomment)
-Start-Process iexplore.exe $url
-Start-Process edge.exe $url
-Start-Process chrome.exe $url
+#Start-Process iexplore.exe $url
+#Start-Process edge.exe $url
+#Start-Process chrome.exe $url
 
 
 exit
